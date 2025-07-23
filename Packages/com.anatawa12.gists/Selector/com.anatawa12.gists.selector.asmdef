@@ -1,0 +1,42 @@
+{
+    "name": "com.anatawa12.gists.selector",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.vrchat.worlds",
+            "expression": "",
+            "define": "VRCSDK_WORLDS"
+        },
+        {
+            "name": "com.vrchat.avatars",
+            "expression": "",
+            "define": "VRCSDK_AVATARS"
+        },
+        {
+            "name": "com.vrchat.base",
+            "expression": "",
+            "define": "VRCSDK_BASE"
+        },
+        {
+            "name": "com.vrchat.udonsharp",
+            "expression": "",
+            "define": "UDON_SHARP"
+        },
+        {
+            "name": "com.vrchat.worlds",
+            "expression": "[3.4.0,4.0.0)",
+            "define": "UDON_SHARP"
+        }
+    ],
+    "noEngineReferences": false
+}
+

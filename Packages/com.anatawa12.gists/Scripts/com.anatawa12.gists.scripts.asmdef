@@ -1,0 +1,61 @@
+{
+    "name": "com.anatawa12.gists.scripts",
+    "references": [
+        "VRC.SDK3A",
+        "VRC.SDK3A.Editor",
+        "VRC.SDKBase",
+        "VRC.SDKBase.Editor",
+        "VRC.SDKBase.Editor.BuildPipeline",
+        "VRC.SDKBase.Editor.ShaderStripping",
+        "VRC.SDK3",
+        "VRC.SDK3.Editor",
+        "VRC.Udon",
+        "VRC.Udon.Editor",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "UdonSharp.Editor",
+        "UdonSharp.Lib",
+        "UdonSharp.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "VRC.Collections.dll",
+        "VRC.Dynamics.dll",
+        "VRC.SDK3.Dynamics.Contact.dll",
+        "VRC.SDK3.Dynamics.Contact.Editor.dll",
+        "VRC.SDK3.Dynamics.PhysBone.dll",
+        "VRC.SDK3.Dynamics.PhysBone.Editor.dll",
+        "VRC.Utility.dll",
+        "VRCCore-Editor.dll",
+        "VRCSDK3A.dll",
+        "VRCSDK3A-Editor.dll",
+        "VRCSDKBase.dll",
+        "VRCSDKBase-Editor.dll",
+        "VRC.Udon.ClientBindings.dll",
+        "VRC.Udon.Common.dll",
+        "VRC.Udon.Compiler.dll",
+        "VRC.Udon.EditorBindings.dll",
+        "VRC.Udon.Graph.dll",
+        "VRC.Udon.Security.dll",
+        "VRC.Udon.UAssembly.dll",
+        "VRC.Udon.VM.dll",
+        "VRC.Udon.VRCGraphModules.dll",
+        "VRC.Udon.VRCTypeResolverModules.dll",
+        "VRC.Udon.VRCWrapperModules.dll",
+        "VRC.Udon.Wrapper.dll",
+        "VRCSDK3.dll",
+        "VRCSDK3-Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "",
+            "define": "ANATAWA12_GISTS_VPM_PACKAGE"
+        }
+    ],
+    "noEngineReferences": false
+}
