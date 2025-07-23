@@ -17,6 +17,9 @@
     },
     "vrceve.calendar": {
       "version": "1.2.5"
+    },
+    "net.ureishi.qvpen": {
+      "version": "3.3.8"
     }
   },
   "locked": {
@@ -51,6 +54,12 @@
       "dependencies": {
         "com.vrchat.base": ">=3.4.2",
         "com.vrchat.worlds": ">=3.4.2"
+      }
+    },
+    "net.ureishi.qvpen": {
+      "version": "3.3.8",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.5.0"
       }
     }
   }
